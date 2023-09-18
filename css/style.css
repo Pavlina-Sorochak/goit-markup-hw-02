@@ -65,6 +65,9 @@ a {
 .page-nav {
   font-style: normal;
 }
+.order {
+  background: #2e2f42;
+}
 .order .section-order {
   color: #fff;
   font-size: 56px;
