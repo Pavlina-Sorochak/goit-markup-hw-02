@@ -57,6 +57,7 @@ p {
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.32px;
+  font-style: normal;
 }
 .address .link:hover,
 .address .link:focus {
@@ -124,7 +125,7 @@ p {
   text-transform: capitalize;
 }
 .our-team-list {
-  background-color: #ffffff;
+  background-color: #f4f4fd;
 }
 .our-team-list .title {
   color: #2e2f42;
