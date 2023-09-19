@@ -64,6 +64,9 @@ p {
   color: #404bbf;
   background-color: #404bbf;
 }
+.address {
+  font-style: normal;
+}
 
 /*Order Service*/
 
@@ -112,9 +115,10 @@ p {
   letter-spacing: 0.32px;
 }
 /*Our Team*/
-
-.our-team {
+.team {
   background-color: #f4f4fd;
+}
+.our-team {
   color: #2e2f42;
   text-align: center;
   font-size: 36px;
@@ -125,7 +129,7 @@ p {
   text-transform: capitalize;
 }
 .our-team-list {
-  background-color: #f4f4fd;
+  background-color: #ffffff;
 }
 .our-team-list .title {
   color: #2e2f42;
